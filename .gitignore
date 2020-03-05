@@ -1,0 +1,9 @@
+*.Po
+*.o
+Makefile
+config.h
+config.log
+config.status
+fcrackzip
+stamp-h1
+zipinfo
